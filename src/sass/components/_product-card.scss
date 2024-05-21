@@ -4,6 +4,8 @@
 
 // 제품 카드
 .product-card{
+  min-width: 300px;
+  min-inline-size: 300px;
   $small-height: $small-size; // 500px
   $large-height: $large-size; // 640px
   $gap: $small-spacing; // 16px
